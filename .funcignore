@@ -1,0 +1,4 @@
+node_modules
+jsreport.config.json
+test.json
+logs

@@ -1,0 +1,16 @@
+{
+    "httpPort": 5488,
+    "allowLocalFilesAccess": true,
+    "store": {
+        "provider": "fs"
+    },
+    "blobStorage": {
+        "provider": "fs"
+    },
+    "timeout": 60000,
+    "extensions": {
+        "studio": {
+            "enabled": true
+        }
+    }
+}

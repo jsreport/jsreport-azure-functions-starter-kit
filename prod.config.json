@@ -1,0 +1,64 @@
+{
+    "httpPort": 5488,
+    "allowLocalFilesAccess": true,
+    "store": {
+        "provider": "fs"
+    },
+    "blobStorage": {
+        "provider": "fs",
+        "dataDirectory": "/tmp/storage"
+    },
+    "timeout": 60000,
+    "logger": {
+        "file": {
+            "silent": true
+        },
+        "error": {
+            "silent": true
+        }
+    },
+    "templatingEngine": {
+        "strategy": "http-server"
+    },
+    "extensions": {
+        "authentication": {
+            "enabled": false
+        },
+        "authorization": {
+            "enabled": false
+        },
+        "cli": {
+            "enabled": false
+        },
+        "express": {
+            "enabled": false
+        },
+        "freeze": {
+            "enabled": false
+        },
+        "fs-store": {
+            "dataDirectory": "/tmp/data"
+        },
+        "import-export": {
+            "enabled": false
+        },
+        "public-templates": {
+            "enabled": false
+        },
+        "sample-template": {
+            "enabled": false
+        },
+        "studio": {
+            "enabled": false
+        },
+        "studio-theme-dark": {
+            "enabled": false
+        },
+        "tags": {
+            "enabled": false
+        },
+        "version-control": {
+            "enabled": false
+        }
+    }
+}

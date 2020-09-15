@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "concat-stream": "2.0.0",
+    "jsreport": "^2.10.0",
+    "ncp": "2.0.0"
+  }
+}
