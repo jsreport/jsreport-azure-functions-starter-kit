@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "func start"
+    "start": "node server.js"
   },
   "dependencies": {
     "concat-stream": "2.0.0",
