@@ -8,7 +8,7 @@
         "provider": "fs",
         "dataDirectory": "/tmp/storage"
     },
-    "timeout": 60000,
+    "reportTimeout": 60000,
     "logger": {
         "file": {
             "silent": true
