@@ -7,7 +7,7 @@
     "blobStorage": {
         "provider": "fs"
     },
-    "timeout": 60000,
+    "reportTimeout": 60000,
     "extensions": {
         "studio": {
             "enabled": true
