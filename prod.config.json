@@ -21,6 +21,9 @@
         "strategy": "http-server"
     },
     "extensions": {
+        "licensing": {
+            "useSavedLicenseInfo": false
+        },
         "authentication": {
             "enabled": false
         },
