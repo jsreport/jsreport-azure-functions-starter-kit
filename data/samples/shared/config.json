@@ -2,11 +2,13 @@
     "shortid": "dOoi1a",
     "name": "shared",
     "creationDate": {
-        "$$date": 1600196463640
+        "$$date": 1638284435277
     },
     "modificationDate": {
-        "$$date": 1600196463640
+        "$$date": 1638284435277
     },
-    "_id": "RotMQEhxDcGz29NW",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "kTYRkRqVVn4omHuH",
     "$entitySet": "folders"
 }

@@ -12,9 +12,8 @@ const init = (async () => {
 })()
 
 module.exports = async function (context, req) {
-    await init
-
     try {
+        await init
         // use the request body from post, if not specified return a sample template report for preview in browser
         const res = await jsreport.render(req.body || {
             template: {

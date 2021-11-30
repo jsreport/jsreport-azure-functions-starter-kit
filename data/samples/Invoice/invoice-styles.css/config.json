@@ -2,11 +2,13 @@
     "shortid": "ByKOCF3cg",
     "name": "invoice-styles.css",
     "creationDate": {
-        "$$date": 1600196464098
+        "$$date": 1638284435612
     },
     "modificationDate": {
-        "$$date": 1600196464098
+        "$$date": 1638284435612
     },
-    "_id": "UX0g2sDAStqCwDCm",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "8Ro8dkmERdgnHwj7",
     "$entitySet": "assets"
 }

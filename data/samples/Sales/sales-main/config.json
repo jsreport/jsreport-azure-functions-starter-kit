@@ -13,11 +13,13 @@
         "shortid": "B1lSTrt6NB"
     },
     "creationDate": {
-        "$$date": 1600196463876
+        "$$date": 1638284435443
     },
     "modificationDate": {
-        "$$date": 1600196463876
+        "$$date": 1638284435443
     },
-    "_id": "LT7UN4liTWdWJIIA",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "16Dq91DZH6TfIgV6",
     "$entitySet": "templates"
 }

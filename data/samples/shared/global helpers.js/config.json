@@ -3,11 +3,13 @@
     "isSharedHelper": true,
     "name": "global helpers.js",
     "creationDate": {
-        "$$date": 1600196464400
+        "$$date": 1638284435736
     },
     "modificationDate": {
-        "$$date": 1600196464400
+        "$$date": 1638284435736
     },
-    "_id": "l73W6ACum1UXqcPr",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "PvCmmGFY2FL6kjM5",
     "$entitySet": "assets"
 }

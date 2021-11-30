@@ -2,11 +2,13 @@
     "shortid": "B1lSTrt6NB",
     "name": "sales-data",
     "creationDate": {
-        "$$date": 1600196463796
+        "$$date": 1638284435362
     },
     "modificationDate": {
-        "$$date": 1600196463796
+        "$$date": 1638284435362
     },
-    "_id": "oxzcEHyrP46VINnY",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "oZsYYCHliAWcYqBh",
     "$entitySet": "data"
 }

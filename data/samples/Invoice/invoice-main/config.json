@@ -14,11 +14,13 @@
         "marginLeft": "1cm"
     },
     "creationDate": {
-        "$$date": 1600196463909
+        "$$date": 1638284435473
     },
     "modificationDate": {
-        "$$date": 1600196463909
+        "$$date": 1638284435473
     },
-    "_id": "SRbi9HeQNBvVypnd",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "_id": "6x3yoFQJRiMhWvUi",
     "$entitySet": "templates"
 }

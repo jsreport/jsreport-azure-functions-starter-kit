@@ -17,9 +17,6 @@
             "silent": true
         }
     },
-    "templatingEngine": {
-        "strategy": "http-server"
-    },
     "extensions": {
         "licensing": {
             "useSavedLicenseInfo": false
@@ -49,6 +46,9 @@
             "enabled": false
         },
         "sample-template": {
+            "enabled": false
+        },
+        "scheduling": {
             "enabled": false
         },
         "studio": {

@@ -92,5 +92,15 @@ bin
 obj
 appsettings.json
 local.settings.json
+
+# Azurite artifacts
+__blobstorage__
+__queuestorage__
+__azurite_db*__.
 logs
-/out.pdf
+data/fs.journal
+data/fs.version
+data/monitoring
+data/profiles
+data/storage
+out.pdf
