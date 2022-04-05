@@ -1,13 +1,13 @@
 const JsReport = require('jsreport')
 const path = require('path')
-const ncp = require('ncp')
+const fse = require('fs-extra')
 
 let jsreport
 const init = (async () => {    
     jsreport = JsReport({
         configFile: path.join(__dirname, '../', 'prod.config.json')
     })    
-    await ncp(path.join(__dirname, '../', 'data'), '/tmp/data')
+    await fse.copy(path.join(__dirname, '../', 'data'), '/tmp/data')
     return jsreport.init()
 })()
 
