@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "0.26.1",
-    "jsreport": "3.6.1",
+    "jsreport": "3.10.0",
     "concat-stream": "2.0.0",
     "fs-extra": "10.0.1"
   },
