@@ -1,16 +1,21 @@
 {
-  "name": "jsreport-app",
+  "name": "jsreport-func",
   "version": "1.0.0",
   "description": "",
+  "main": "src/functions/*.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "func start",
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "axios": "0.26.1",
-    "jsreport": "3.10.0",
-    "concat-stream": "2.0.0",
-    "fs-extra": "10.0.1"
+    "@azure/functions": "4.5.0",
+    "fs-extra": "11.2.0",
+    "jsreport": "4.4.0",
+    "@sparticuz/chromium": "123.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "axios": "1.7.2",     
+    "azure-functions-core-tools": "4.0.5801",
+    "concat-stream": "2.0.0"
+  }
 }
