@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/functions/*.js",
-  "scripts": {
-    "start": "func start",
+  "scripts": {    
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
